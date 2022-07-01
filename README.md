@@ -1,0 +1,2 @@
+# Cryptobot
+Crypto trading bot
